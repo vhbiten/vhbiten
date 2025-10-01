@@ -1,7 +1,7 @@
 # 😁 Olá, me chamo Victor!
 <p align="left">
   Desenvolvedor em formação, dedicado a criar soluções modernas, funcionais e orientadas a propósito. <br>
-  Tenho focado meus estudos em <strong>HTML, </strong><strong>CSS</strong> e <strong>JavaScript</strong>, com o objetivo de transformar cada <br> aprendizado em projetos reais e aplicáveis ao longo da minha jornada em Análise e Desenvolvimento de Sistemas.
+  Tenho focado meus estudos em <strong>HTML, </strong><strong>CSS</strong> e <strong>JavaScript</strong>, com o objetivo de <br> conseguir minha primeira oportunidade de estágio.
 </p>
 
 ---
