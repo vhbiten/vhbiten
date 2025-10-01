@@ -1,7 +1,7 @@
 # 😁 Olá, me chamo Victor!
 <p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em conceitos de <strong>WebDesign</strong> e <strong>Python</strong>, com o objetivo de transformar cada <br> aprendizado em projetos reais e aplicáveis ao longo da minha jornada em Análise e Desenvolvimento de Sistemas.
+  Desenvolvedor em formação, dedicado a criar soluções modernas, funcionais e orientadas a propósito. <br>
+  Tenho focado meus estudos em <strong>HTML, </strong><strong>CSS</strong> e <strong>JavaScript</strong>, com o objetivo de transformar cada <br> aprendizado em projetos reais e aplicáveis ao longo da minha jornada em Análise e Desenvolvimento de Sistemas.
 </p>
 
 ---
@@ -10,8 +10,7 @@
 
 - 🖥️ Cursando Análise e Desenvolvimento de Sitemas pela ESTÁCIO
 - 🎓 Aluno ativo da plataforma Rockeatseat [clique aqui para ver meu perfil](https://app.rocketseat.com.br/me/victorbitencourt)
-- 📚 Estudando Desenvolvimento fullstack
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
+- 📚 Estudando Desenvolvimento FullStack
 
 ---
 
