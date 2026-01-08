@@ -17,18 +17,10 @@
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/vhbiten">
-  <!--
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=vhbiten&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  />
-  -->
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhbiten&layout=compact&langs_count=6&theme=dark"
-  />
-</a>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhbiten&layout=compact&langs_count=6&theme=dark&cache_seconds=1800"
+/>
 
 ---
 
@@ -82,6 +74,6 @@
 <br>
 
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A1A1A,100:10002B"
+  src="https://streak-stats.demolab.com?user=vhbiten&theme=dark"
+  height="156"
 />
