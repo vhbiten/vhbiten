@@ -22,11 +22,12 @@ Busco minha primeira oportunidade como desenvolvedor, com interesse em ambientes
 - React.js (Next.js)
 
 **Back-end**
-- node.js (Next.js / Express)
+- node.js (Nest.js / Express)
 
 **Ferramentas**
 - Git  
 - GitHub  
+- Docker
 
 ---
 
