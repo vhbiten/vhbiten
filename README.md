@@ -43,7 +43,7 @@ Busco minha primeira oportunidade como desenvolvedor, com interesse em ambientes
 ## Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/victor-bitencourt-andrade/  
-- 📧 Email: victorh.biten@gmail.com  
+- 📧 Email: victorhugo_biten@hotmail.com 
 - 📱 WhatsApp: https://wa.me/5567992276898  
 
 ---
